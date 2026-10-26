@@ -1,16 +1,3 @@
-<!-- Header -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=180&section=header&text=Toni%20Correa&fontSize=48&fontColor=ffffff&fontAlignY=40&animation=fadeIn" alt="Toni Correa header" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/17fastyyy">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=3B82F6&center=true&vCenter=true&width=520&lines=Aspiring+DevOps+%26+Backend+Engineer;Automation+with+Python+and+Bash;Linux%2C+containers+and+cloud;Based+in+Barcelona%2C+Spain" alt="Typing SVG" />
-  </a>
-</p>
-
----
-
 ## About me
 
 I'm **Toni Correa**, an 18-year-old IT student based in **Barcelona, Spain**, with a strong interest in **DevOps** and **backend development**.
