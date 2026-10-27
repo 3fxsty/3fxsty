@@ -46,19 +46,19 @@ I enjoy working with Linux systems, developing applications and understanding ho
 
 | Project | Description | Stack |
 |---|---|---|
-| [**discord-cleaner**](https://github.com/17fastyyy/discord-cleaner) | Script that automatically leaves inactive Discord group DMs based on how long ago the last message was sent. | Python |
+| [**discord-cleaner**](https://github.com/3fxsty/discord-cleaner) | Script that automatically leaves inactive Discord group DMs based on how long ago the last message was sent. | Python |
 
 ---
 
 ## GitHub stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=17fastyyy&show_icons=true&hide_border=true&theme=tokyonight" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=17fastyyy&layout=compact&hide_border=true&theme=tokyonight" alt="Top languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=3fxsty&show_icons=true&hide_border=true&theme=tokyonight" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=3fxsty&layout=compact&hide_border=true&theme=tokyonight" alt="Top languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=17fastyyy&hide_border=true&theme=tokyonight" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com?user=3fxsty&hide_border=true&theme=tokyonight" alt="GitHub streak" />
 </p>
 
 ---
@@ -69,7 +69,7 @@ I enjoy working with Linux systems, developing applications and understanding ho
 <!-- - **LinkedIn:** [linkedin.com/in/YOUR-PROFILE](https://www.linkedin.com/in/YOUR-PROFILE) -->
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=17fastyyy&color=2563eb&style=flat-square&label=Profile+views" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=3fxsty&color=2563eb&style=flat-square&label=Profile+views" alt="Profile views" />
 </p>
 
 <!-- Footer -->
